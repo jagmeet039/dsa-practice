@@ -13,4 +13,4 @@ sum(100, 200, 300, 400)     => 1000
 . No arguments -> should return 0.
 . Function must handle a variable number of arguments.
 . Negative numbers should be handled correctly.
-. Must not use built-in eval() or Function() constructor
+. Must not use built-in eval() or Function() constructor.

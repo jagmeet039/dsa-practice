@@ -20,6 +20,7 @@ are not the same).
 . Object and array references are considered unique
 even if they look identical.
 
+# Outputs:
 removeDuplicates([1, 2, 2, 3, 4, 4]);
 // Output: [1, 2, 3, 4]
 

@@ -4,7 +4,7 @@ Create a function that takes a nested array of arbitrary
 depth and returns a flattened array where all nested
 elements are extracted and placed in a single array.
 
-# Example Inputs & Outputs
+# Example Inputs & Outputs:
 # Example 1
 Input: [1, [2, [3, 4], 5], 6]
 Output: [1, 2, 3, 4, 5, 6]
