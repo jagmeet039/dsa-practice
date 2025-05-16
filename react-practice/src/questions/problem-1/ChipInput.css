@@ -1,0 +1,17 @@
+.tags{
+  margin-top: 20px
+}
+
+.tag{
+  margin: 0 7px;
+  background: lightgray;
+  padding: 2px 8px;
+  border-radius: 10px;
+}
+
+.tag span{
+  color: red;
+  padding: 0 5px;
+  border-radius: 50%;
+  cursor: pointer;
+}
