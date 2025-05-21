@@ -41,7 +41,7 @@ function GuessTheNumber() {
   }
 
   return (
-    <div style={{ display: "flex", flexDirection: "column", alignItems: "center", margin: "50px 0" }}>
+    <div className='container'>
       <h2>Guess the Number</h2>
       <input
         placeholder="Enter a number between 1 and 100"
