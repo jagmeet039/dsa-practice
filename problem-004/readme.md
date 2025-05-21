@@ -48,5 +48,5 @@ Output:
 Constraints & Edge Cases
 The input array may be empty. In that case, return an empty object {}.
 
-The key values can be of any type (number, string, etc.), but they will be coerced to strings when used as object keys.
+The key values can be of any type (number, string, etc.), but they will be coerced to strings when used as object keys
 
